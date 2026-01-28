@@ -32,7 +32,7 @@ Python, Pandas, Scikit-learn, Matplotlib/Seaborn, Streamlit
 - Fun interactive app!
 
 ▶️ **How to Run**  
-- cd task1_titanic
+- cd codsoft_task1
 - pip install -r requirements.txt
 - python task1.py          # for analysis & plots
 - streamlit run app.py     # interactive predictor

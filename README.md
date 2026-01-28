@@ -32,7 +32,6 @@ Python, Pandas, Scikit-learn, Matplotlib/Seaborn, Streamlit
 - Fun interactive app!
 
 ▶️ **How to Run**  
-- ```bash
 - cd task1_titanic
 - pip install -r requirements.txt
 - python task1.py          # for analysis & plots

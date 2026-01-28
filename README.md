@@ -34,7 +34,7 @@ Python, Pandas, Scikit-learn, Matplotlib/Seaborn, Streamlit
 ▶️ **How to Run**  
 - cd codsoft_task1
 - pip install -r requirements.txt
-- python task1.py          # for analysis & plots
+- python titanic.py          # for analysis & plots
 - streamlit run app.py     # interactive predictor
 
 
